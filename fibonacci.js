@@ -9,7 +9,7 @@ let afterThat = 0;
 let i = 0
 
 
-while (i <= n ){
+while (i < n ){
     console.log(n1);
   afterThat = n1 + n2;
   n1 = n2;
